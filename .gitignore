@@ -70,6 +70,6 @@ docs/_build/
 *.iml
 *.iws
 *.ipr
-
+db.sqlite3
 # VS Code
 .vscode/
